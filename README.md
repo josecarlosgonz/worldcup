@@ -1,4 +1,4 @@
-worldcup
+FIFA 2014 World Cup Players by Place of Birth
 ========
 
-Visualization of player's age and place of birth
+[Interactive visualization](http://cdb.io/1kU9I2I)
